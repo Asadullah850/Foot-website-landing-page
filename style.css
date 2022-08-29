@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat' !important;
+}
+.headerSection{
+    background-color: #E5E5E5;
+    height: 600px;
+    width: 100%;
+}
+.headerImg{
+    height: 550px;
+}
+.headerDescription h1{
+    Font-family: Montserrat;
+    Font-style: Bold;
+    Font-size: 60px;
+    Line-height: 78px;
+    color: #575757;
+}
+.headerDescription h1 span{
+    color: #df8838;
+}
+.headerOrderbtn{
+    background-image: linear-gradient(to right,#fba24f,#ff1e1e);
+    border: none;
+    border-radius: 5px;
+    color: #ffff;
+    font-family: Montserrat;
+    font-style: SemiBold;
+}
+.aboutSection{
+    background-image: linear-gradient(to right,#dddbd9, #f5efef);
+    height: 550px;
+    width: 100%;
+}
+.aboutImg img{
+    height: 550px;
+    width: 100%;
+}
+.recipies{
+    height: 510px;
+}
+
+.card-recipies{
+    box-shadow: #e9dada 0px 0px 2px 5px;
+    
+}
+.socicalSaction{
+    height: 150px;
+}
+.footer-body{
+    background-color: #0B0D17;
+    width: 100%;
+    text-align: center;
+}
+.f-f-h{
+    color: #FBA24F;
+    margin-top: 10px;
+}
+.f-f-p{
+    color: #5B5B5B;
+}
